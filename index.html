@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>
+    <input id="name" type="text" placeholder="введите имя">
+    <input id="password" type="password" placeholder="введите пароль">
+    <input id="btn" type="submit" value="Войти">
+</p>
+<h1 id="output"></h1>
+<script>
+    const btn = document.getElementById('btn')
+    const name = document.getElementById('name')
+    const out = document.getElementById('output')
+    let user
+
+    name.addEventListener('change', () => {
+        user = {name: name.value}
+    })
+
+    btn.addEventListener('click', (e) => {
+        e.preventDefault()
+        fetch('http://localhost:3000/register', {
+            method: 'POST',
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify(user)
+        }).then(response => response.json()).then(data => out.innerText = data.name)
+    })
+</script>
+</body>
+</html>
