@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cfce7c1-14b3-4511-a7ee-1a99b22a9d05" name="Default Changelist" comment="" />
+    <list default="true" id="9cfce7c1-14b3-4511-a7ee-1a99b22a9d05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/uploads/5be68b4695ba778567a33dda92a2a3ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/7ec1db313151ea89a79b911730d728e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/9e9b2213ad83887c13697b310f757eb4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/b1246baa8058fdc63e2a958523e9a0a7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/be02d318b1679fb0253806a0a938a697" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/d573bce592b039dfe478c6ea081ba3ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/f730e18f1cbd89f90ed3d09be963cda3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/f89b7ef66cdfccb14dde752a86f59748" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/fc2e60598877c2d227bf6332034122d6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,17 +47,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kgqmNPvec1XjTd0MrmDT1nbNer" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.19.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.19.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -33,7 +74,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,12 +85,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606132740270</updated>
-      <workItem from="1606132741421" duration="8874000" />
+      <workItem from="1606132741421" duration="13629000" />
+      <workItem from="1606237884898" duration="814000" />
+      <workItem from="1606238984007" duration="28000" />
+      <workItem from="1606379272554" duration="568000" />
+      <workItem from="1606381581199" duration="721000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606133150405">
@@ -60,9 +119,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="255" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606137982264" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1606138123274">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="17" y="18" key="SettingsEditor" timestamp="1606238663581">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
+    <state x="17" y="18" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1606238663581" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606138123274" />
   </component>
 </project>

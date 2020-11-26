@@ -29,7 +29,9 @@
                 "Content-Type": "application/json"
             },
             body: JSON.stringify(user)
-        }).then(response => response.json()).then(data => out.innerText = data.name)
+        })
+            .then(response => response.json())
+            .then(data => out.innerText = data.name)
     })
 </script>
 </body>
